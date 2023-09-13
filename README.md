@@ -13,7 +13,8 @@
 
 ### Programmers Tier
 <!-- Programmers Tier -->
-![image](https://github.com/newtron-vania/newtron-vania/assets/118050445/4eefbebe-dc5f-4a53-bbb2-e8b238c87416)
+![image](https://github.com/newtron-vania/newtron-vania/assets/118050445/bc1c8cd8-cd5f-403f-955f-0dd16d8a3a9a)
+
 
 <!-- productive box -->
 <!--
