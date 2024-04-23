@@ -13,7 +13,8 @@
 
 ### Programmers Tier
 <!-- Programmers Tier -->
-![image](https://github.com/newtron-vania/newtron-vania/assets/118050445/bc1c8cd8-cd5f-403f-955f-0dd16d8a3a9a)
+<img width="1053" alt="스크린샷 2024-04-23 오전 11 57 08" src="https://github.com/newtron-vania/newtron-vania/assets/118050445/62128e01-fbe5-458b-8d42-f49baee2f528">
+
 
 
 <!-- productive box -->
