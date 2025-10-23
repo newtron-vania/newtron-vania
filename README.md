@@ -1,7 +1,7 @@
 <div align="center">
 
 ### My Git Status 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewtron-vania%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FCFCFC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 <!-- StatCard -->
 ![newtron-vania's github stats](https://github-readme-stats.vercel.app/api?username=newtron-vania&count_private=true&show_icons=true&theme=dark)
