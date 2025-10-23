@@ -1,7 +1,7 @@
 <div align="center">
 
 ### My Git Status 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=hits&size=medium)](https://myhits.vercel.app)
+[![all](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnewtron-vania%2Fnewtron-vania?color=blue&label=all&size=small)](https://myhits.vercel.app)
 
 <!-- StatCard -->
 ![newtron-vania's github stats](https://github-readme-stats.vercel.app/api?username=newtron-vania&count_private=true&show_icons=true&theme=dark)
